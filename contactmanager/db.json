@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "fname": "vishnu",
+      "lname": "vardhan reddy",
+      "email": "venl@gmail.com",
+      "phone": "894898744",
+      "id": "8bc03f10-1554-424e-a4cb-279b1679b243"
+    },
+    {
+      "id": "f74d96b2-5e82-46af-ae17-ea703929f733",
+      "fname": "prabhas",
+      "lname": "darling",
+      "email": "d1@gmail.ocm",
+      "phone": "97497854545"
+    }
+  ]
+}
